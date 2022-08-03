@@ -6,7 +6,12 @@ https://sociabuzz.com/syarifhidayatullah2020/tribe
 
 ## UI/UX
 
+https://www.buymeacoffe.com/syarifhidayat
 https://dribbble.com/shots/15928354-Food-Delivery-App
+
+## Youtube
+
+https://youtu.be/P5C34YDUjJI
 
 ## Preview
 
