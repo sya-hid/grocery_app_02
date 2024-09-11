@@ -20,3 +20,4 @@ https://youtu.be/P5C34YDUjJI
 <img src="assets/preview/detail2.png" alt="Detail" width="200">
 <img src="assets/preview/detail1.png" alt="Detail" width="200">
 </p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.grocery_app_02"/>  
